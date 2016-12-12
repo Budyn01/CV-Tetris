@@ -1,3 +1,3 @@
-# Cv-Tetris
+# Tetris Game
 
 
